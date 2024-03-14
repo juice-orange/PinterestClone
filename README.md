@@ -13,4 +13,4 @@ Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-![Demo](/Pinterest-screen.png/)
+![Demo](/PinterestClone/Pinterest-screen.png)

@@ -12,5 +12,5 @@ Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente
 + **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
 + **Google Fonts:** Para fuentes personalizadas.
 
-### Vista Previa del Proyecto
-![Demo](/PinterestClone/Pinterest-screen.png)
+### Vista previa del Proyecto
+![Demo](/PINTEREST-StudioCode/Pinterest-screen.png)
